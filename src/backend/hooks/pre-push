@@ -1,0 +1,3 @@
+#!/bin/sh
+
+composer php-cs-fixer-dry
